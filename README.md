@@ -1,188 +1,227 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF0080&text=ROHAN%20NIRBHAVANE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+div align="center">
+
+# 👋 Hi, I'm Rohan Nirbhavane
+
+### 🚀 DevOps Engineer | AWS Cloud | Docker | Kubernetes | Terraform | Jenkins
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=DevOps+%26+Cloud+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Building+Cloud+%26+CI%2FCD+Projects;Always+Learning+%26+Automating" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-<h3 align="center">
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:8A2BE2,100:FF0080" width="100%"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **DevOps & Cloud enthusiast** focused on building practical projects around cloud infrastructure, automation, containers, CI/CD, and Linux.
+
+- ☁️ Working with **AWS Cloud** and cloud infrastructure
+- 🏗️ Building **Infrastructure as Code (IaC)** using Terraform
+- 🐳 Containerizing applications with **Docker**
+- ☸️ Learning and deploying workloads with **Kubernetes**
+- 🔄 Building **CI/CD pipelines** with Jenkins
+- 🐧 Working with **Linux, Git & GitHub**
+- 🔐 Exploring cloud security, monitoring and DevSecOps practices
+- 📚 Continuously learning through hands-on projects
+
+> **Goal:** Build reliable, automated and scalable cloud infrastructure.
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux" alt="Cloud and Infrastructure"/>
 </p>
 
- 🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub
+### 🔄 DevOps & Automation
 
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins;Always+Learning+New+Things" />
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,git,github,bash" alt="DevOps and Automation"/>
 </p>
 
+### 💻 Development
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,mysql,html,css,js" alt="Development"/>
 </p>
 
-### 🚀 About Me
-- ☁️ DevOps Engineer working with **AWS Cloud** infrastructure
-- 🏗️ Building **Infrastructure as Code** with **Terraform** (VPC, EC2, modular setups)
-- 🐳 Comfortable with **Docker** & containerization
-- ⚙️ Learning **Kubernetes** orchestration
-- 🔁 CI/CD pipelines using **Jenkins**
-- 🐧 Linux administration & Git/GitHub
-- 📚 Always learning and building new DevOps projects
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🚀 Featured Projects
 
-## 🛠️ Tools & Technologies:
+### ☸️ Kubernetes Nginx Deployment
 
-| Linux | Terraform | Jenkins | Kubernets | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
-|----------|----------|----------|----------|------|------|-------|------|------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="55" height="55" /> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"  title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" alt="AWS" title="AWS" width="55" height="55" /> | 
+Scalable Nginx web-server deployment using Kubernetes and Docker.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+**Tech:** Kubernetes • Docker • Nginx • YAML
 
-![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
+**Highlights**
+- Kubernetes Deployment and replica management
+- Service exposure using NodePort / ClusterIP
+- Self-healing workloads
+- Containerized Nginx deployment
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 🌱 Contribution Graph
+### ⚙️ CI/CD Pipeline with Jenkins
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+End-to-end CI/CD workflow designed to automate application integration, testing and deployment.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+**Tech:** Jenkins • Git • Docker • SonarQube • Trivy
 
-## 🚀 Project 
+**Highlights**
+- Automated builds triggered by Git pushes
+- Static code analysis and quality gates
+- Docker image creation
+- Container security scanning
+- Automated deployment workflow
 
-### [🎮 Project Super Mario](#project-super-mario)
+---
 
-A nostalgic game inspired by Super Mario, built to explore game development fundamentals.
+### 🏗️ Terraform AWS Infrastructure
 
-- **Technologies:** HTML5, CSS3, JavaScript
-- **Features:**
-    - Classic 2D platformer gameplay
-    - Player controls and obstacle interactions
-    - Dynamic animations and scoring system
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+Infrastructure as Code project for repeatable AWS resource provisioning.
 
-### [☸️ Project Kubernetes Nginx Deployment](#project-kubernetes-nginx-deployment)
+**Tech:** Terraform • AWS EC2 • VPC • S3 • IAM
 
-A scalable Nginx web server deployment managed using Kubernetes orchestration.
+**Highlights**
+- Automated AWS infrastructure provisioning
+- Modular Terraform configuration
+- Infrastructure state management
+- IAM and networking configuration
+- Repeatable cloud environment setup
 
-- **Tech Stack:** Kubernetes (K8s), Nginx, Docker, YAML
-- **Features:**
-  - High-availability pod setup using Kubernetes Deployments
-  - Service exposure via NodePort / ClusterIP
-  - Automated self-healing and load balancing across container pods 
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### 🌐 3-Tier Student Application
 
-### [⚙️ Project CI/CD Pipeline using Jenkins](#project-cicd-pipeline-using-jenkins)
+A full-stack student management application following a 3-tier architecture.
 
-An end-to-end automated Continuous Integration and Continuous Deployment (CI/CD) workflow.
+**Architecture**
 
-- **Tech Stack:** Jenkins, Git, Docker, SonarQube, Trivy
-- **Features:**
-  - Automated code integration and build trigger on code push
-  - Static code analysis with SonarQube quality gates
-  - Container image building, security scanning, and deployment
- 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+`Angular` → `Java Spring Boot` → `MySQL`
 
+**Highlights**
+- REST API based backend
+- Student CRUD operations
+- Centralized database
+- Role-based application functionality
+- AWS deployment architecture
 
-### [🏗️ Project Terraform AWS Infrastructure](#project-terraform-aws-infrastructure)
+---
 
-Infrastructure as Code (IaC) setup to automate AWS cloud resource provisioning.
+### ☁️ Angular Application on AWS
 
-- **Tech Stack:** Terraform (HCL), AWS (EC2, VPC, S3, IAM)
-- **Features:**
-  - Automated cloud environment creation using modular Terraform code
-  - State file management for tracking infrastructure changes
-  - Secure and repeatable AWS resource setup with proper IAM roles and networking
- 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+Frontend application deployed using AWS cloud services.
 
+**Tech:** Angular • Amazon S3 • CloudFront • Route 53
 
- ### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
-A serverless Angular application deployed on AWS infrastructure.
+**Highlights**
+- Static frontend hosting on S3
+- CDN delivery using CloudFront
+- Route 53 DNS configuration
+- Scalable cloud hosting architecture
 
-- **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
-- **Features**:
-- Scalable frontend hosted on AWS S3
-- Secure domain mapping using Route 53
-- CDN integration via CloudFront for faster delivery
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### 🎮 Super Mario Web Game
 
-### [📚 Project Student App](https://github.com/abhipraydhoble/Project-Student-App)
-A student management system to handle registrations, grades, and profiles.
+A browser-based game project created to practice frontend development and JavaScript fundamentals.
 
-- **Tech Stack**: Java Spring Boot, Angular
-- **Features**:
-- CRUD operations for student records
-- Responsive design for seamless mobile use
-- Role-based access for students and administrators
+**Tech:** HTML5 • CSS3 • JavaScript
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+**Highlights**
+- 2D platformer gameplay
+- Player controls
+- Obstacles and interactions
+- Animations and scoring
 
-### [🏛️ Project 3-Tier Student App](https://github.com/abhipraydhoble/Project-3-tier-Student-App)
-A robust 3-tier architecture for a student management application.
+---
 
-- **Architecture**:
-- **Frontend**: Angular
-- **Backend**: Java Spring Boot
-- **Database**: MySQL
-- **Features**:
-- Secure API interactions
-- Centralized database with scalable backend
-- Deployed on AWS with load balancing and high availability
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### [🎥 Netflix Clone](https://github.com/abhipraydhoble/netflix)
-A Netflix-inspired application with movie browsing and streaming features.
-
-- **Tech Stack**: React.js, TMDB API
-- **Features**:
-- Browse and search for movies by genre
-- Modern, responsive design
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/sachin-rathod-tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="sachin-rathod@outlook.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sachin-rathod-4a3737239?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
 
-# 👀 Profile Views
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-rathod-tech&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ---
-# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-rathod-tech&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-rathod-tech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 ---
 
-⭐ Thanks for visiting my profile!
+## 🎯 Current Focus
 
+```text
+AWS Cloud          ███████████████████░   Learning & Building
+Docker             ████████████████████   Hands-on
+Kubernetes         ████████████████░░░░   Learning
+Terraform          ███████████████████░   Hands-on
+Jenkins / CI-CD    ██████████████████░░   Building
+Linux              ████████████████████   Hands-on
+DevSecOps          █████████████░░░░░░░   Exploring
+```
+
+---
+
+## 📌 What I'm Building
+
+- ☁️ AWS cloud infrastructure
+- 🏗️ Terraform automation
+- 🐳 Dockerized applications
+- ☸️ Kubernetes deployments
+- 🔄 CI/CD automation
+- 🔐 DevSecOps workflows
+- 📈 Monitoring and scalable cloud architectures
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **DevOps, Cloud, AWS, CI/CD and automation opportunities**.
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
